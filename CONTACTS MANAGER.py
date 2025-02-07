@@ -1,4 +1,4 @@
-
+contacts = {}
 
 def save_contact(name, number):
     contacts[name] = number
